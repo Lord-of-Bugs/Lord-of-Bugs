@@ -4,6 +4,7 @@ My name is Muchan Li. I am a rising senior at UC San Diego studying Data Science
 #### My Inspiration 
 Every time I feel discouraged by obstacles, this clip from one of my favorite movies always cheers me up and puts me back on track. It is my personal source of inspiration and the reason why I love data and computer science.
 [![](https://montages.no/files/2018/12/0000-dna.jpg)](https://youtube.com/clip/UgkxYT_Y57WpJu-mkk9ha1iR1w4yCo6KXY6m?si=LYSbVHdfavHkjjEr)
+[![](https://ibb.co/kGK01Tv)](https://youtube.com/clip/UgkxYT_Y57WpJu-mkk9ha1iR1w4yCo6KXY6m?si=LYSbVHdfavHkjjEr)
 <!--
 **Lord-of-Bugs/Lord-of-Bugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
